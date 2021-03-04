@@ -5,20 +5,28 @@ listView is a style applied on table to render a desktop table as on a mobile ta
 ```
 The table is rendered as a mobile list view.</br>
 The style is only supported on GBC.
-- GMA Native
+
+## GMA Native
 ![gma native](./screenshots/gma_native.png)
+## GMA Native ( my phone )
 ![gma native](./screenshots/gma_native_phone.jpg)
 ![gma native](./screenshots/gma_native_phone_landscape.jpg)
-- GMA UR
+
+## GMA UR ( my phone )
 ![gma ur](./screenshots/gma_gbc_default.jpg)
-- Mobile browser
+
+## Mobile browser
 ![mobile browser](./screenshots/mobile_browser.png)
+## Mobile browser ( my phone )
 ![mobile browser](./screenshots/gbc_chrome_phone.jpg)
-- Desktop browser
+
+## Desktop browser
 ![desktop browser](./screenshots/desktop_browser.png)
-- GDC UR Default
+
+## GDC UR Default
 ![GDC UR Def](./screenshots/gdc_gbc_default.png)
-- GDC UR Custom
+
+## GDC UR Custom ( how I'd really like it look in the GDC & Browser on all devices )
 ![GDC UR Cust](./screenshots/gdc_gbc_custom.png)
 
 Some customers would like this same mobile feature but on desktop.</br>
