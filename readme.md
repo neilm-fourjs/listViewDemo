@@ -37,18 +37,19 @@ For example, about **single** and **double click** or on **ROWBOUND**.
 - On desktop browser
     - if **no ROWBOUND** is set, the table actions are **NOT** displayed on any panel
     - if **ROWBOUND** is set, the table actions are **NOT** displayed on rows. Why ?
-    - OK/cancel button **NOT** displayed on action panel. Why ?
+    - OK button **NOT** displayed on action panel. Why ?
     - double click is associated to accept
 - On mobile browser
     - if **no ROWBOUND** is set, the table actions are **NOT** displayed on any panel
     - if **ROWBOUND** is set, the table actions are displayed on each row.
-    - OK/cancel button **NOT** displayed on action panel. Why ?
+				( Actually I don't see that in Chrome on my phone, I don't get **ANY** views for my ROWBOUND actions! )
+    - OK button **NOT** displayed on action panel. Why ?
     - doubleclick is not associated to accept. Why ? You need to add attribute DOUBLECLICK=accept.</br>
     Which then triggers the action on a single click.
 - On mobile GMA/GMI native
     - if **no ROWBOUND** set, the table actions are displayed on the action panel
     - if **ROWBOUND** is set, the table actions are displayed on each row.
-    - OK/cancel buttons displayed on action panel.
+    - OK buttons displayed on action panel.
     - doubleclick is not associated to accept. Why ? You need to add attribute DOUBLECLICK=accept.</br>
     Which then triggers the action on a single click.
 
